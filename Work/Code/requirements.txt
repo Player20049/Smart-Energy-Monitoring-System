@@ -1,4 +1,4 @@
-In your terminal of your Raspberry pi (5) write:
+#In your terminal of your Raspberry pi (5) write:
 
 sudo apt update 
 sudo apt install python3-spidev python3-gpiozero
