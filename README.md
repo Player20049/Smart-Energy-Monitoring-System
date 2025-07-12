@@ -29,12 +29,15 @@ This project was developed as part of my personal learning and engineering devel
 
 ## 📸 Hardware Used
 
-- Raspberry Pi 5
+- Raspberry Pi 5 (8GB RAM)
 - ACS712 Current Sensor (30A)
 - ZMPT101B Voltage Sensor
-- Relay Module
+- 5V Relay Module
 - MCP3008 ADC (for analog-to-digital conversion)
 - LED / Motor for load testing
+- 1N4007 Diode (1N40071,1N4002 - 1N4007 Diode work it doesn't matter)
+- 220 ohm resistor (for LED 330 ohm resistor should also be fine)
+- Multimeter (for calibration and measurement OPTIONAL)
 - Jumper wires, breadboard, etc.
 
 ---
