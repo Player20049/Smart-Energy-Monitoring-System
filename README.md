@@ -41,7 +41,9 @@ This project was developed as part of my personal learning and engineering devel
 - Jumper wires, breadboard, etc.
 
 ---
-
+## Final Schematic
+<img src="Work/SmartEnergy_Schematic.png" width="600">
+---
 ## 🧠 Technologies Used
 
 - Python 3
