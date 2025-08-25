@@ -43,7 +43,7 @@ This project was developed as part of my personal learning and engineering devel
 ---
 ## Final Schematic
 <img src="Work/SmartEnergy_Schematic.png" width="900">
----
+
 ## 🧠 Technologies Used
 
 - Python 3
